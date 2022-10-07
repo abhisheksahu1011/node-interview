@@ -1,19 +1,4 @@
-Q1)  What is node.js ?.
 
-
-What is NPM?.
-
-
-What are the different modules in Node.js?.
-
-
-What is the purpose of the module.exports?.
-
-
-Difference between default export and named export.
-
-
-How do you import any module in Node.js.
    
 
 Q2) What is NPM?.
@@ -27,6 +12,7 @@ i run on javascript engine.
 
            
 Q4) What are the different modules in Node.js?.
+
 => Node module is a functionality  in node js it iws a javascrpit file wh9ichj contains functions.
 This node module can be reuse.
  there are rthree types pof module 

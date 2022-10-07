@@ -1,7 +1,7 @@
 
    
 
-Q2) What is NPM?.
+Q2) What is NPM?
 =>Npm Stand for Node package managar its a standerd library use to install node packages in our project.
 we have to install NPM every time in every project
 
